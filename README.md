@@ -3,7 +3,7 @@ React UI for Battleship
 
 ### Install
 ```
-$ git clone git@bitbucket.org:ag04/mb_battleship_app.git
+$ git clone https://github.com/mariobutir/Battleship_UI.git
 $ cd PROJECT
 $ npm install
 ```
